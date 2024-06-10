@@ -1,0 +1,65 @@
+/*global*/
+
+/*header*/
+header{
+    background-image: url(./img/img9.jpg);
+    background-size: cover;
+    color: white;
+    height: 400px;
+    text-align: flex;
+    padding: 5px;
+    font-size: 30px;
+    line-height: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 300px;
+    height: 300px;
+    padding: 10px;   
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    text-align: left;
+}
+header.site-contact{ 
+    color:white;
+    background-color: black;
+}
+body{ 
+    font-family: arial;
+    background-color: gray;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    line-height: 7;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    line-height: 1.5;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-image: url(./img/img9.jpg);
+    background-image: cover;
+    height: 100px;
+    color:white; 
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
